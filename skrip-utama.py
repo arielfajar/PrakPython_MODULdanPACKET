@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 from luas.persegi import *
 from luas.persegi_panjang import *
 from luas.segitiga import *
@@ -128,10 +122,3 @@ while True:
     else : print("******Mohon maaf pilih sesuai yang tertera******")
        
 print("Terima kasih telah menggunakan program kami")
-
-
-# In[ ]:
-
-
-
-
